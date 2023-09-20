@@ -9,7 +9,9 @@ This allows integrating a Safari or QR code UIKit view controller into a SwiftUI
 ## Usage
 To display a Safari view:
 
-```SafariView(url: URL(string: "https://www.example.com")!)```
+```
+SafariView(url: URL(string: "https://www.example.com")!)
+```
 To display a QR code view:
 
 ```
