@@ -19,6 +19,7 @@ SafariView(url: URL(string: "https://www.example.com")!)
 // SafariServices not available
 ```
 The SafariView wrapper handles instantiating the correct view controller under the hood.
+![Screenshot 2023-09-20 at 12 52 01](https://github.com/theonlymo/SafariSwiftUI/assets/145556517/3f7d8eec-a486-45ba-b3ff-617fd1238655)
 
 ### Implementation
 The key aspects are:
